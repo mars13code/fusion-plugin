@@ -17,7 +17,7 @@ class MyPlugin
     // constructor
     function __construct ()
     {
-        echo "(MyPlugin)";
+        // echo "(MyPlugin)";
     }
     
     //@end
